@@ -1453,7 +1453,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Dev Docs](http://devdocs.io)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) - Addy Osmani
 * [Directory of free Javascript ebooks](http://jsbooks.revolunet.com)
-* [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net) - Marijn Haverbeke
+* [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net/2nd_edition/) - Marijn Haverbeke
+*[Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke
 * [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
